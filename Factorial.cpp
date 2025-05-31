@@ -15,7 +15,7 @@ int main (){
 	}
 }
 else{ 
-cout << "Vuelve a intentarlo (S/N): ";
+cout << "El numero debe ser positivo, vuelva a intentarlo (S/N): ";
         char respuesta;
         cin >> respuesta;
 
